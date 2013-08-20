@@ -1,0 +1,20 @@
+.header-logo {
+	float:left;
+	display:inline;
+	padding-top:3px; 
+	padding-left:3px
+}
+
+.ui-btn-text {
+	font-weight: normal !important;
+}
+
+.ui-btn-active {
+background-image: -webkit-gradient(linear, left top, left bottom, from(#2BABC6), to(#208499)) !important;
+background-image: -webkit-linear-gradient(top, #2BABC6, #208499) !important;
+background-image: -moz-linear-gradient(top, #2BABC6, #208499) !important;
+background-image: -ms-linear-gradient(top, #2BABC6, #208499) !important;
+background-image: -o-linear-gradient(top, #2BABC6, #208499) !important;
+background-image: linear-gradient(top, #2BABC6, #208499) !important;
+font-family: Helvetica, Arial, sans-serif;
+}
