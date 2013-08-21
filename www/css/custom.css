@@ -18,3 +18,12 @@ background-image: -o-linear-gradient(top, #2BABC6, #208499) !important;
 background-image: linear-gradient(top, #2BABC6, #208499) !important;
 font-family: Helvetica, Arial, sans-serif;
 }
+
+/* no border in footer */
+.ui-bar-a {
+	border: 0px !important;
+}
+
+/* center button groups*/
+#navgroup {text-align:center;}
+#navgroup div {display:inline-block;}
